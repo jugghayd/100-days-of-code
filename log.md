@@ -1,30 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: April 26
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Watching the C# Streams and Data Processing lessons on Treehouse, working on my console Blackjack app, took a bunch of tech skills assessments on PluralSight.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I've seen #100DaysOfCode on here for a while, but yesterday I got a personal challenge from my full-stack instructor. 
+So here we go.
+There are certain things that I have trouble wrapping my head around, that I have just haven't gotten the "a-ha!" moment, including recursive functions, how to build C# classes without breaking the whole program, and just getting the hang of Visual Studio (I'm used to Atom). 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [C# Console BlackJack](https://github.com/jugghayd/AnotherBlackJackGit)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
