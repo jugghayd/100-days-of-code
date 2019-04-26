@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: April 26
-##### (delete me or comment me out)
 
 **Today's Progress**: Watching the C# Streams and Data Processing lessons on Treehouse, working on my console Blackjack app, took a bunch of tech skills assessments on PluralSight.
 
